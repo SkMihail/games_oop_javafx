@@ -1,6 +1,5 @@
 package ru.job4j.chess.firuges.black;
 
-import org.junit.jupiter.api.Disabled;
 import org.junit.jupiter.api.Test;
 import ru.job4j.chess.ImpossibleMoveException;
 import ru.job4j.chess.firuges.Cell;
